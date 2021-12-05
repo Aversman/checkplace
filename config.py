@@ -2,7 +2,7 @@ import MySQLdb
 from MySQLdb.connections import Connection
 import time
 # Bot configuration
-API_TOKEN = '1895678681:AAGAURU4TKEAcev0olFxNBPy9V6HAAF4WS8'
+API_TOKEN = ''
 
 # MySQL database connect
 class DatabaseConnect:
